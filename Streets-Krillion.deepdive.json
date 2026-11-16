@@ -1,0 +1,756 @@
+{
+  "format": "deep-dive",
+  "version": 2,
+  "title": "Streets Krillion",
+  "description": "Good luck friends😁👀",
+  "seconds": 30,
+  "categories": [
+    {
+      "id": "plankton",
+      "name": "Plankton",
+      "points": 10,
+      "color": "#afbdcb"
+    },
+    {
+      "id": "schooler",
+      "name": "Schooler",
+      "points": 30,
+      "color": "#79cfdf"
+    },
+    {
+      "id": "rare",
+      "name": "Rare",
+      "points": 60,
+      "color": "#6af0bb"
+    },
+    {
+      "id": "deep-cut",
+      "name": "Deep Cut",
+      "points": 85,
+      "color": "#c49aff"
+    },
+    {
+      "id": "krillion",
+      "name": "One in a Krillion",
+      "points": 100,
+      "color": "#ff5896"
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "Name a streets pet + owner (format as \"pet name, owner first name\").",
+      "answers": [
+        {
+          "text": "Milo, Chetna",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Milo, Nishi",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Leo, Isha",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Bear, Bri",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Toby, Bri",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Nico, Kenzie",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Milo, Josh",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Max, Nishi",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Udon, Josh",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Bean, Josh",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Storm, Serai",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Phoenix, Serai",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Midnight, Chetna",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Midnight, Myra",
+          "category": "krillion",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "prompt": "Name a Six Flags ride at the Arlington location #rememberourroots.",
+      "answers": [
+        {
+          "text": "Titan",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Mr. Freeze",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Batman",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Texas Giant",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Sky Screamer",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "The Joker",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Aquaman",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Superman",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Shock Wave",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "The Riddle",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Pandemonium",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Runaway Mountain",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Judge Roy Scream",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Runaway Mine Train",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Roaring Rapids",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "El Aserradero",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Justice League",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Catwoman Whip",
+          "category": "deep-cut",
+          "aliases": [
+            "Catwoman"
+          ]
+        },
+        {
+          "text": "Pirates of Speelunker Cave",
+          "category": "deep-cut",
+          "aliases": [
+            "Pirate Ride",
+            "Pirates"
+          ]
+        },
+        {
+          "text": "Sidewinder",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Gunslinger",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Boot Scootin",
+          "category": "krillion",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "prompt": "Name a place a streets member has worked (format as \"place, streets member first name\").",
+      "answers": [
+        {
+          "text": "UHS, Aashka",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Mathnasium, Aashka",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Premier Internists of North Texas, Aashka",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Liver Center of Texas, Aashka",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Beyond Care Pediatrics, Aashka",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "UHS, Isha",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Le Peep, Isha",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "PF Chang's, Isha",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "RenderDraw, Bri",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Dobie, Bri",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Amazech Solutions, Bri",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Smoothie King, Bri",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Asil Mithani Tuition, Bri",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Snappy Salads, Bri",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Kilwins, Bri",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Jinya, Kenzie",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Reading Ranch, Kenzie",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "7 Leaves, Kenzie",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Yogurtland, Josh",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Goldman Sachs, Cyrus",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "JP Morgan Chase, Cyrus",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "UT Southwestern, Cyrus",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "7 Leaves, Cyrus",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Reading Ranch, Cyrus",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Reading Ranch, Hayden",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "TAMU EMS, Hayden",
+          "category": "rare",
+          "aliases": [
+            "EMS, Hayden"
+          ]
+        },
+        {
+          "text": "Perry's, Serai",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "AMR, Serai",
+          "category": "rare",
+          "aliases": [
+            "American Medical Response, Hayden"
+          ]
+        },
+        {
+          "text": "Italian Villa, Nishi",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Dillas, Nishi",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "UT Farm Stand, Nishi",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "MoneyTact, Nishi",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Smoothie King, Zain",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Affinity Neurocare, Zain",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Capital One, Akshay",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "BoscoK12, Akshay",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "PF Chang's, Akshay",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Chick fil a, Akshay",
+          "category": "rare",
+          "aliases": [
+            "Chick-fil-a, Akshay"
+          ]
+        },
+        {
+          "text": "WebTPA, Myra",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "99 Yards Academy, Myra",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Azmina Tutoring, Myra",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Kabani & Kabani, Myra",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Allen OBGYN, Chetna",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Trinity North Dallas Neurology, Chetna",
+          "category": "deep-cut",
+          "aliases": [
+            "Trinity Neurology, Chetna"
+          ]
+        }
+      ]
+    },
+    {
+      "prompt": "Name a streets member's sibling (format as \"sibling first name, streets member first name\").",
+      "answers": [
+        {
+          "text": "Rohan, Nishi",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Rebekkah, Josh",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Ishan, Isha",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Ashrita, Akshay",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Kaia, Serai",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Calais, Serai",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Mahitha, Chetna",
+          "category": "schooler",
+          "aliases": [
+            "Mahi, Chetna"
+          ]
+        },
+        {
+          "text": "Nabeel, Myra",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Megan, Kenzie",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Chloe, Kenzie",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Dylan, Cyrus",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Hailey, Hayden",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Hannah, Hayden",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "John, Bri",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Zina, Zain",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Aayog, Aashka",
+          "category": "plankton",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "prompt": "Name a streets member's college mascot (writing the mascot's name gives a rarer answer than writing what animal the mascot is).",
+      "answers": [
+        {
+          "text": "Longhorn",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Bevo",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Collie",
+          "category": "plankton",
+          "aliases": [
+            "Rough Collie",
+            "Dog"
+          ]
+        },
+        {
+          "text": "Reveille",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Gator",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Albert",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Alberta",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Comet",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Temoc",
+          "category": "rare",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "prompt": "Name a streets member's major (format as \"major, streets member first name\").",
+      "answers": [
+        {
+          "text": "Computer Information Systems and Technology, Kenzie",
+          "category": "krillion",
+          "aliases": [
+            "CIStech, Kenzie",
+            "Computer Information Systems & Technology, Kenzie"
+          ]
+        },
+        {
+          "text": "Ocean Engineering, Josh",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Neuroscience, Aashka",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Biomedical Sciences, Chetna",
+          "category": "rare",
+          "aliases": [
+            "BIMS, Chetna"
+          ]
+        },
+        {
+          "text": "Neuroscience, Isha",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Nutrition, Nishi",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Finance, Bri",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Communications, Myra",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Computer Science, Akshay",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Neuroscience, Zain",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Finance, Cyrus",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Biomedical Sciences, Hayden",
+          "category": "rare",
+          "aliases": [
+            "BIMS, Hayden"
+          ]
+        },
+        {
+          "text": "Neuroscience, Serai",
+          "category": "plankton",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "prompt": "Name an awesome streets member (first name only)!",
+      "answers": [
+        {
+          "text": "Cyrus",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Akshay",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Hayden",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Josh",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Zain",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Serai",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Aashka",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Chetna",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Isha",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Nishi",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Myra",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Bri",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Kenzie",
+          "category": "krillion",
+          "aliases": []
+        }
+      ]
+    }
+  ]
+}
